@@ -1,11 +1,11 @@
 # Hi, I'm Leati
 
-I am an Electronics and Computer Engineering student with a strong interest in solving real-world problems through technology. My work spans data science, cybersecurity, networking, and software development, and I enjoy building projects that combine analytical thinking with practical implementation.
+I am an Electronics and Computer Engineering student with a strong interest in solving real-world problems through technology. My work spans data science, cybersecurity and networking. I enjoy building projects that combine analytical thinking with practical implementation.
 
 ## About Me
 
 - Electronics and Computer Engineering student
-- Passionate about data science and machine learning
+- Passionate about data science
 - Interested in cybersecurity, malware analysis, and reverse engineering
 - Learning network engineering and system administration
 - Continuously building projects to strengthen technical and problem-solving skills
@@ -15,7 +15,7 @@ I am an Electronics and Computer Engineering student with a strong interest in s
 ### Programming Languages
 - Python
 - C++
-- SQL
+- C
 
 ### Data Science
 - Pandas
@@ -33,8 +33,7 @@ I am an Electronics and Computer Engineering student with a strong interest in s
 - Windows Internals
 - Assembly (x86)
 - Network Security
-- Wireshark
-- Nmap
+
 
 ### Networking
 - TCP/IP
@@ -54,7 +53,6 @@ I am an Electronics and Computer Engineering student with a strong interest in s
 I'm currently working on projects involving:
 
 - Data analysis using real-world datasets
-- Machine learning fundamentals
 - Malware analysis and reverse engineering
 - Python automation
 - Network security concepts
@@ -65,8 +63,6 @@ Here are some of the projects you'll find on my GitHub:
 
 - Data analysis projects using Python
 - Machine learning experiments
-- Cybersecurity and malware analysis notes
-- Networking utilities
 - Python automation scripts
 
 ## Goals
