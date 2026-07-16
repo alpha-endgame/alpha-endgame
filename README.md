@@ -1,4 +1,4 @@
-# Hi, I'm Leati
+# Hi, I'm Kevin
 
 I am an Electronics and Computer Engineering student with a strong interest in solving real-world problems through technology. My work spans data science, cybersecurity and networking. I enjoy building projects that combine analytical thinking with practical implementation.
 
