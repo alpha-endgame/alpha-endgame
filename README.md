@@ -7,7 +7,6 @@ I am an Electronics and Computer Engineering student with an interest in solving
 - Electronics and Computer Engineering student
 - Passionate about data science
 - Interested in cybersecurity, malware analysis, and reverse engineering
-- Learning network engineering and system administration
 - Continuously building projects to strengthen technical and problem-solving skills
 
 ## Technical Skills
@@ -71,7 +70,7 @@ I aim to build practical solutions that bridge software, data, and security whil
 
 ## Connect
 
-LinkedIn: https://www.linkedin.com/in/your-linkedin
+LinkedIn: https://www.linkedin.com/feed/
 
 Feel free to explore my repositories, provide feedback, or collaborate on interesting projects.
 
