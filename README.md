@@ -8,7 +8,7 @@ I'm an **Electronics and Computer Engineering** student passionate about solving
 
 ### 🔭 Currently Working On
 
-I'm currently focused on building projects involving **data analysis using real-world datasets**, and **malware analysis and reverse engineering**.
+I'm currently focused on building projects involving **data analysis using real-world datasets**, and **malware analysis**.
 
 ### 🛠️ Tools & Technologies
 
