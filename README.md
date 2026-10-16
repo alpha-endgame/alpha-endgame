@@ -1,90 +1,62 @@
-# Hi, I'm Kevin
+# Hi there, I'm Kevin 👋
 
-I am an Electronics and Computer Engineering student with an interest in solving real-world problems through technology. My work spans data science, cybersecurity and networking. I enjoy building projects that combine analytical thinking with practical implementation.
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)[cite: 1, 2]
 
-## About Me
+### 👨‍💻 About Me
 
-- Electronics and Computer Engineering student
-- Passionate about data science
-- Interested in cybersecurity, malware analysis, and reverse engineering
-- Continuously building projects to strengthen technical and problem-solving skills
+I'm an **Electronics and Computer Engineering** student passionate about solving real-world problems through technology[cite: 2]. My work spans **data science**, **cybersecurity**, and **networking**[cite: 2]. I enjoy building projects that combine analytical thinking with practical implementation, continuously strengthening my technical and problem-solving skills[cite: 2].
 
-## Technical Skills
+### 🔭 Currently Working On
 
-### Programming Languages
-- Python
-- C++
-- C
+I'm currently focused on building projects involving **data analysis using real-world datasets**, **malware analysis and reverse engineering**, **Python automation**, and **network security concepts**[cite: 2].
 
-### Data Science
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Machine Learning Fundamentals
+### 🛠️ Tools & Technologies
 
-### Cybersecurity
-- Malware Analysis
-- Reverse Engineering
-- Windows Internals
-- Assembly (x86)
-- Network Security
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)[cite: 1]
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)[cite: 1]
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 
-### Networking
-- TCP/IP
-- Routing and Switching
-- Network Troubleshooting
+**Data Science & Machine Learning**
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Linux
-- Windows
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)[cite: 1]
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)[cite: 1]
 
-## Current Focus
+**Cybersecurity & Networking**
 
-I'm currently working on projects involving:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=assembly&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/Networking-00487C?style=flat&logo=cisco&logoColor=white)
 
-- Data analysis using real-world datasets
-- Malware analysis and reverse engineering
-- Python automation
-- Network security concepts
+**Tools & Platforms**
 
-## Featured Projects
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)[cite: 1]
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)[cite: 1]
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)[cite: 1]
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-Here are some of the projects you'll find on my GitHub:
+### 🚀 Notable Projects
 
-- Data analysis projects using Python
-- Machine learning experiments
-- Python automation scripts
+**[Human or Machine?](https://github.com/alpha-endgame/Human-or-Machine.)**[cite: 1]  
+A text-classification machine learning system that uses a Random Forest model to determine whether text is human-written or AI-generated[cite: 3]. It features linguistic feature engineering (like readability indexes and word counts), feature-integrity auditing, and an interactive Gradio web dashboard[cite: 3].  
+*Tech stack: Python, Pandas, NumPy, Scikit-learn, Random Forest, Gradio*[cite: 3]
 
-## Goals
+**[Social Sentinel](https://github.com/Wecncode/Social-Sentinel)**[cite: 1]  
+An open-source NLP tool and interactive application designed to analyze text messages and emails for social engineering tactics and phishing threats[cite: 4]. It evaluates indicators like artificial urgency and psychological manipulation using multi-model classification algorithms[cite: 4].  
+*Tech stack: Python, Scikit-Learn, TF-IDF, Gradio*[cite: 4]
 
-I aim to build practical solutions that bridge software, data, and security while continuously improving my engineering skills. My long-term interests include artificial intelligence, cybersecurity research, and large-scale data analytics.
+### 🧠 Currently Learning & Exploring
 
-## Connect
+- Artificial Intelligence & Large-Scale Data Analytics[cite: 2]
+- Advanced Malware Analysis & Windows Internals[cite: 2]
+- Network Routing, Switching, and Security[cite: 2]
 
-LinkedIn: https://www.linkedin.com/feed/
+### 📫 Connect With Me
 
-Feel free to explore my repositories, provide feedback, or collaborate on interesting projects.
+I aim to build practical solutions that bridge software, data, and security[cite: 2]. Feel free to reach out, explore my repositories, or collaborate on interesting projects[cite: 2]!
 
-<!--
-**alpha-endgame/alpha-endgame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)[cite: 1, 2]
